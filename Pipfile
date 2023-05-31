@@ -8,6 +8,8 @@ jupyterlab = "*"
 pandas = "*"
 scikit-learn = "*"
 tensorflow = "*"
+tfds-nightly = "*"
+jupyterlab-vim = "*"
 
 [dev-packages]
 
